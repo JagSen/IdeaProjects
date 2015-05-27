@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataStructures_Clean/lib/org.osgi.core-6.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DataStructures_Clean/lib/org.osgi.core-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
